@@ -269,7 +269,7 @@ Este proyecto es parte de una tarea académica y está disponible bajo licencia 
 
 **Stefanny Hernández**
 - Proyecto: Tarea 3 - Formulario de Registro Avanzado
-- Fecha: Enero 2025
+- Fecha: Julio 2025
 
 ---
 
